@@ -1,5 +1,9 @@
-
-
+.main{
+    padding: 50px;
+}
+ .row{
+    background-color: palevioletred;
+ }
 /* footer  */
 .site-footer
 {
